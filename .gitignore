@@ -1,0 +1,13 @@
+/weeklyEftSundayChecksum/*.vbproj
+/weeklyEftSundayChecksum/*.vbproj.user
+/weeklyEftSundayChecksum/My Project/
+/weeklyEftSundayChecksum/bin/
+/weeklyEftSundayChecksum/Resources/
+/weeklyEftSundayChecksum/obj/
+/weeklyEftSundayChecksum/*.ico
+/weeklyEftSundayChecksum/*.png
+/weeklyEftSundayChecksum/*.gif
+/weeklyEftSundayChecksum/*.jpg
+/weeklyEftSundayChecksum/*.resx
+*.sln
+*.suo
